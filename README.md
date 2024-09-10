@@ -1,8 +1,7 @@
 # AI Research Engineer 
-### Education Computer Science Graduate 
-### Work Experience Graduate Researcher @ North South University 
-- big impact project 1!
-- big impact project 2!
+### Education - Computer Science Graduate 
+### Work Experience - Graduate Researcher @ North South University 
+
   
 ### Projects 12 
 Drug Discovery
