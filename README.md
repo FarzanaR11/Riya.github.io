@@ -4,7 +4,7 @@
 
   
 ### Projects 12 
-Drug Discovery
-AI
-Quantum Computing
+- Drug Discovery
+- AI
+- Quantum Computing
 _
